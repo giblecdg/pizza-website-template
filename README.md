@@ -1,2 +1,20 @@
-# pizza-website-template
-This is a static WordPress site generated with Simply Static, featuring a modern and responsive pizza restaurant template. It includes a stylish homepage, menu section, contact form, and gallery. Perfect for showcasing a pizzeria's offerings with a sleek and user-friendly design. 🚀
+# 🍕 Pizza Website Template
+
+A static WordPress-based pizza restaurant template, generated using Simply Static. This template provides a modern and responsive design, perfect for pizzerias looking to showcase their menu and services.
+
+## 🚀 Features
+
+- **Fully responsive** – works on all devices
+- **Modern design** – clean and professional layout
+- **Menu section** – easily display food items
+- **Contact form** – allows customers to reach out
+- **Image gallery** – showcase delicious pizzas
+- **Fast and lightweight** – optimized for speed
+
+## 📦 Installation
+
+### Clone the repository
+
+```bash
+git clone https://github.com/giblecdg/pizza-website-template.git
+```
